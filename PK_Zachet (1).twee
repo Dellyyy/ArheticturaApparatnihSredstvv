@@ -1,0 +1,1355 @@
+:: StoryTitle
+PK_Zachet
+
+
+:: StoryData
+{
+  "ifid": "17C89553-D80A-4F2C-BE3D-FB25BCF0F21E",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Начало",
+  "zoom": 1
+}
+
+
+:: Бюджет {"position":"1075,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Для того, чтобы поставить 25 ПК в аудиторию, я возьму за основу сборку из самого дешёвого ПК. 
+И так, итоговая сумма 25 ПК будет составлять ''1.180.600₽.''
+
+Согласно требованиям к конфигурации ПК, мы вынуждены выйти за рамки бюджета, так как дешевле ПК с такой конфигурацией найти будет сложно и почти невозможно.
+
+<a href="https://docs.google.com/spreadsheets/d/1UuFowF5Uv9MJMA2Y8vbpA26CAblP9nci73SweS8_OR4/edit?usp=drive_link">Таблица с данными</a><br>
+    [[ → Назад к выбору->Готовые ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Бюджет1 {"position":"675,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Для сборки 25 ПК с бюджетом ''600.000₽'' мы рассмотрим вариант с самой дешёвой сборкой ПК, которая собрана вручную.
+Для того, чтобы поставить 25 вручную собранных ПК в аудиторию, потребуется заплатить ''1.091.725₽''
+Этот вариант оказался намного дешевле, чем готовая сборка, но мы также вышли за рамки бюджета, но я ещё раз повторюсь, дешевле ПК с такой конфигурацией найти будет сложно и почти невозможно.
+
+<a href="https://docs.google.com/spreadsheets/d/1Ar0B3w-P9dpeIK9xuVd04YQ-2A-Wh_xd_mqv_de2cy0/edit?usp=drive_link">Таблица с данными</a><br>
+    [[ Вернуться к выбору ->по частям ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Готовые ПК {"position":"1200,700","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Какой ПК вы хотите рассмотреть?<br>
+    [[ → Самый дешёвый ПК ->Дешёвый]]
+    [[ → Комфортный ПК ->Комфортный]]
+    [[ → 25 ПК с бюджетом 600.000₽ ->Бюджет]]
+    [[ Вернуться к выбору ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Дешёвый {"position":"1200,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Вот самый дешёвый ПК, соответствующий минимальным требованиям, найденный на маркетплейсе OZON:
+
+''ПК'' - <a href="https://www.ozon.ru/product/robotcomp-sistemnyy-blok-boss-2-0-plus-intel-core-i5-12400-ram-32-gb-ssd-1000-gb-intel-uhd-graphics-1729719787/?asb2=FdJEZcJgbEALhDbXwEqmdBVYuvdjO2uhRCgjeNQFrzEoUoRKB_51VJ2FWVoH01ZTyDFQhZhVTwE1DE1O5CLS6g&from_sku=1729719787&oos_search=false">Robotcomp Системный блок Босс 2.0 (Intel Core i5-12400, RAM 16 ГБ, SSD 1000 ГБ, Intel UHD Graphics 730, ), черный.</a>
+''Монитор -'' <a href="https://www.ozon.ru/product/hp-24-monitor-v241a-1783574408/?asb2=uvCoWo7acz-2MSZ61Ly8TpKZnbgSQefGnByVg8mpZ50kVcyD0lSf_WNuwonkTssYxfPxO3aP-KTYU25FbRvTuw&avtc=1&avte=4&avts=1735315635&keywords=%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80+24+%D0%B4%D1%8E%D0%B9%D0%BC%D0%B0">HP 24" Монитор V241a</a> ''(2 штуки)''
+''Клавиатура, мышь(комплект) - '' <a href="https://www.ozon.ru/product/klaviatura-i-mysh-komplekt-defender-york-chernyy-provodnoy-semnye-klavishi-173015482/?asb=yqNnwrGkXseLqYoRuElzUrDgVTSmO4JgBKQenMExVyY%253D&asb2=KFQAh10rmm13uC40uFrHbXZT6FOj7JWSQALycjk_BJocaQbSuYFMSYXJ5dWWr-6PvUT_dejefeIPyjau9KUDeQ&avtc=1&avte=2&avts=1735315937&keywords=%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0+%D0%BC%D1%8B%D1%88%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82">Клавиатура и мышь комплект Defender York, черный, проводной, съемные клавиши</a>
+
+''Итоговая сумма - 47.224₽'' 
+<a href="https://docs.google.com/spreadsheets/d/1FQjd0Yi9h9C7Dm0N8dHbHt_s49wXoe4u7hwlDR3zXMY/edit?usp=drive_link">Таблица с данными</a>
+<br>
+    [[ → Назад к выбору->Готовые ПК]]
+    [[ → Скрины из магазина ->скрины дешёвый]]
+
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Дешёвый1 {"position":"800,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Вот сборка недорогого ПК, собранного вручную:
+
+Комплектующие:
+''1. Мат. плата'' - <a href="https://www.dns-shop.ru/product/1493ea899fcfd582/materinskaa-plata-biostar-b450mx-s/">Материнская плата Biostar B450MX-S</a>
+''2. Процессор + охлаждение ''- <a href="https://www.dns-shop.ru/product/57c83df99ce7d582/processor-amd-ryzen-5-pro-4655g-oem/">Процессор AMD Ryzen 5 PRO 4655G OEM</a>, <a href="https://www.dns-shop.ru/product/e8d7028a68b8ed20/kuler-dla-processora-id-cooling-se-902-sd-v3/">Кулер для процессора ID-COOLING SE-902-SD V3</a>
+''3. ОЗУ - ''<a href="https://www.dns-shop.ru/product/db617dc546d33330/operativnaa-pamat-patriot-signature-line-psd48g266681-8-gb/">Оперативная память Patriot Signature Line 8 ГБ</a> (3 штуки)
+''4. Носители - ''<a href="https://www.dns-shop.ru/product/22190260a055ed20/512-gb-25-sata-nakopitel-dexp-c100-c100smym512/">512 ГБ 2.5" SATA накопитель DEXP C100</a>, <a href="https://www.dns-shop.ru/product/2a6d930fa5eeed20/128-gb-25-sata-nakopitel-dexp-c100-c100smym128/">128 ГБ 2.5" SATA накопитель DEXP C100</a>
+''5. Блок питания -'' <a href="https://www.dns-shop.ru/product/f5743d04b605d21a/blok-pitania-digma-dpsu-350w--cernyj/">
+Блок питания Digma DPSU-350W</a>
+''6. Корпус -'' <a href="https://www.dns-shop.ru/product/98f0ad6e5f423332/korpus-dexp-dc-302r--krasnyj/">Корпус DEXP DC-302R</a><br>
+	[[ Периферия ->Периферия дешевый]]
+    [[ Вернуться к выбору ->по частям ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Комфортный {"position":"1325,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Вот самый комфортный и дорогой ПК, с которым будет удомно каждому(Бюджет неограниченный):
+
+''ПК -'' <a href="https://www.dns-shop.ru/product/dd6eefe8ae2cd582/pk-fragmachine-fire-9101-185252/">ПК Fragmachine FIRE 9101 [185252]</a>
+''Мониторы'' - <a href="https://www.dns-shop.ru/product/1c6cff3af20fed20/27-monitor-aoc-q27g2ebk-cernyj/">27" Монитор AOC Q27G2E/BK черный</a> ''(2 штуки)''
+''Клавиатура'' - <a href="https://www.dns-shop.ru/product/1c44eb1fdf5ced20/klaviatura-provodnaa--besprovodnaa-ardor-gaming-katana-ag-zd-104gt-xda-hs-b/">Клавиатура проводная + беспроводная ARDOR GAMING Katana [AG-ZD-104GT-XDA-HS-B]</a>
+''Мышь'' - <a href="https://www.dns-shop.ru/product/156892d36966ed20/mys-besprovodnaa-logitech-g-pro-x-superlight-910-005940-belyj/">Мышь беспроводная Logitech G PRO X SUPERLIGHT [910-005940] белый</a>
+''Коврик'' - <a href="https://www.dns-shop.ru/product/8b5d2435ee04ed20/kovrik-ardor-gaming-gm-xl-black-xl-cernyj/">Коврик ARDOR GAMING GM-XL Black (XL) черный</a>
+
+''Итоговая сумма - 673.148₽''
+<a href="https://docs.google.com/spreadsheets/d/1yXFgw0fKyFEdSlYqKq_5IlLvzBI86_e8h4419G_DZzE/edit?usp=drive_link">Таблица с данными</a><br>
+	[[ → Посмотреть скрины с магазина->скрины топ]]
+    [[ → Назад к выбору->Готовые ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Комфортный1 {"position":"925,825","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Вот сборка мощного ПК, за которым будет комфортно проводить время:
+
+''1. Мат. плата -'' <a href="https://www.dns-shop.ru/product/708a7ce211a73332/materinskaa-plata-asus-prime-x299-a-ii/">Материнская плата ASUS PRIME X299-A II</a>
+''2. Процессор + охлаждение -'' <a href="https://www.dns-shop.ru/product/8e94082b334ced20/processor-intel-core-i9-10940x-oem/">Процессор Intel Core i9-10940X OEM</a>, <a href="https://www.dns-shop.ru/product/5be76abf2d10ed20/sistema-okhlazdenia-thermaltake-th420-v2-ultra-argb-sync-snow-edition/">Система охлаждения Thermaltake TH420 V2 Ultra ARGB Sync Snow Edition</a>
+''3. ОЗУ - ''<a href="https://www.dns-shop.ru/product/f62f01776f15ed20/operativnaa-pamat-kingston-fury-beast-black-rgb-kf432c16bb2ak4128-128-gb/">Оперативная память Kingston FURY Beast Black RGB 128 ГБ</a>
+''4. Носители - ''<a href="https://www.dns-shop.ru/product/f00f3832ea41ed20/2000-gb-m2-nvme-nakopitel-crucial-t700-ct2000t700ssd5/">2000 ГБ M.2 NVMe накопитель Crucial T700</a>
+''5. Блок питания - ''<a href="https://www.dns-shop.ru/product/c7e3a52d88f3ed20/blok-pitania-deepcool-px1300p-r-pxd00p-fc0b-eu-cernyj/">Блок питания DEEPCOOL PX1300P</a>
+''6. Корпус - ''<a href="https://www.dns-shop.ru/product/88d8a60dd549ed20/korpus-msi-mpg-gungnir-300r-white-airflow-306-7g21w21-w57-belyj/">Корпус MSI MPG GUNGNIR 300R WHITE AIRFLOW</a>
+''7. Видеокарта -'' <a href="https://www.dns-shop.ru/product/43ed33f0c0c3ed20/videokarta-gigabyte-geforce-rtx-4080-super-aero-oc-gv-n408saero-oc-16gd/">Видеокарта GIGABYTE GeForce RTX 4080 SUPER AERO OC</a>
+<br>
+
+    [[ Вернуться к выбору ->по частям ПК]]
+    [[ Периферия ->периферия дорого]]
+    
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Начало {"position":"800,25","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Приветствую, я Delyyy, сейчас я расскажу, как собрать хороший ПК для корпоративного класса, а также мы рассмотрим, какие существуют Программные обеспечения для защиты сети от информационной угрозы.<br>
+[[ → Что такое Корпоративная защита от внутренних угроз информационной безопасности ->Начало1]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Начало1 {"position":"800,175","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Корпоративная защита от внутренних угроз информационной безопасности — это комплекс мер и стратегий, направленных на предотвращение, выявление и реагирование на угрозы, исходящие от сотрудников организации, подрядчиков или других лиц, имеющих доступ к внутренним системам и данным. Внутренние угрозы могут быть как намеренными (например, кража данных), так и ненамеренными (например, ошибки при работе с конфиденциальной информацией).<br>
+    [[ → Продолжить ->Начало2]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Начало2 {"position":"800,325","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Сейчас мы соберем новый и хороший ПК для аудитории компьютерного класса. Мы разберем несколько вариантов сборки ПК: сделаем сборку с участием готового ПК, а также соберем ПК вручную.
+
+Также, вы можете посмотреть характеристики текущего ПК.<br>
+    [[ → Посмотреть характеристики текущего ПК ->Текущий ПК]]
+    [[ → Собрать новый ПК ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Новый ПК {"position":"1000,500","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">''Вам предлагается:''
+
+''ПК, собранный вручную'' - вам будут предложен собранный вручную ПК и периферия в зависимости от выбранной категории(дорогие и дешёвые комплектующие).
+
+''Выбрать готовую сборку ПК'' - вам будут предложены готовые сборки ПК в зависимости от выбранной категории(самый дешёвый, комфортный, по бюджету)<br>
+    [[ → ПК, собранный по частям ->по частям ПК]]
+    [[ → Посмотреть готовые ПК ->Готовые ПК]]
+    [[ → Посмотреть минимальные требования к ПК ->Требования ПК]]
+    [[ → Операционная система ->ОС]]
+    [[ → Вернуться ->Начало2]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: ОС {"position":"1200,200","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">На всех ПК должна быть установленна ''операционная система РедОС''.
+
+''РедОС (Редакционная операционная система) ''— это операционная система, разработанная для использования в образовательных учреждениях и научных лабораториях. Она основана на свободном программном обеспечении и ориентирована на удобство работы с текстовыми и графическими данными. РедОС может включать в себя набор программ для обработки текстов, работы с таблицами, графикой и другими задачами, связанными с учебным процессом.<br>
+    [[ → Программное обеспечение на РедОС ->ПО]]
+    [[ → Программное обеспечение для защиты сети от информационных угроз ->ПО защита]]
+    [[ → Вернуться ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: ПО {"position":"1400,200","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Вот некоторые категории программного обеспечения, которые могут быть установлены на РедОС:
+
+''1. Текстовые редакторы:'' Программы для создания и редактирования текстовых документов, такие как LibreOffice Writer или другие аналогичные редакторы.
+''2. Электронные таблицы: ''Программы для работы с табличными данными, например, LibreOffice Calc.
+''3. Графические редакторы:'' Программное обеспечение для обработки изображений, например, GIMP или Inkscape.
+''4. Программирование:'' Средства разработки, такие как Python, Java или другие языки программирования и IDE (интегрированные среды разработки).<br>
+    [[ → Далее ->ПО1]]
+    [[ → Назад ->ОС]]
+    [[ → Вернуться на главную ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: ПО защита {"position":"1200,25","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Для защиты корпоративной сети от информационных угроз на операционной системе РедОС можно рассмотреть несколько подходов и инструментов. Вот некоторые из них:
+
+''1. Системы предотвращения вторжений (IPS): ''Используйте IPS для мониторинга и анализа сетевого трафика на наличие подозрительной активности.
+''2. Межсетевые экраны (Firewall):'' Настройка межсетевого экрана для контроля входящего и исходящего трафика.
+''3. Шифрование данных:'' Используйте инструменты для шифрования данных как на уровне файловой системы, так и для сетевых соединений (например, VPN).
+''4. Мониторинг и аудит:'' Установите системы мониторинга, которые помогут отслеживать активность в сети и выявлять аномалии.
+''5. Регулярные обновления:'' Обеспечьте регулярное обновление ОС и всех установленных приложений для устранения уязвимостей.<br>
+    [[ → Назад ->ОС]]
+    [[ → Вернуться на главную ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: ПО1 {"position":"1400,325","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">''5. Научные приложения:'' Программы для математических расчетов и моделирования, такие как MATLAB, Octave или SciPy.
+''6. Образовательные программы: ''Программы для изучения различных предметов, включая математику, физику, химию и другие науки.
+''7. Браузеры:'' Веб-браузеры для доступа к интернет-ресурсам, такие как Firefox или Chromium.
+''8. Системы управления базами данных:'' Программы для работы с базами данных, такие как MySQL или PostgreSQL.
+
+Это лишь общий список, и конкретный набор программного обеспечения может варьироваться в зависимости от версии РедОС и требований учебного заведения или лаборатории.<br>
+    [[ → Назад ->ПО]]
+    [[ → Вернуться на главную ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Периферия дешевый {"position":"800,950","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Периферия для дешёвого ПК:
+
+''1. Мониторы -'' <a href="https://www.ozon.ru/product/hp-24-monitor-v241a-1783574408/?asb2=uvCoWo7acz-2MSZ61Ly8TpKZnbgSQefGnByVg8mpZ50kVcyD0lSf_WNuwonkTssYxfPxO3aP-KTYU25FbRvTuw&avtc=1&avte=4&avts=1735315635&keywords=%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80+24+%D0%B4%D1%8E%D0%B9%D0%BC%D0%B0">HP 24" Монитор V241a</a> ''(2 штуки)''
+''2. Клавиатура -'' <a href="https://www.dns-shop.ru/product/172e7aba2bd43330/klaviatura-provodnaa-defender-hb-420-45420/">Клавиатура проводная Defender HB-420</a>
+''3. Мышь -'' <a href="https://www.dns-shop.ru/product/02ffd6f77ad03332/mys-provodnaa-defender-patch-ms-759--cernyj/">Мышь проводная Defender Patch MS-759</a>
+
+''Итоговая стоимость - 43669₽''
+<a href="https://docs.google.com/spreadsheets/d/1P8s89riYaeKNBf2jeUixn2tvfJQC_8Njhp79tyHR7Hg/edit?usp=drive_link">Таблица с данными</a>
+
+Данная сборка вышла чуть-чуть дешевле, чем готовая, но я считаю что лучше собрать ПК вручную, так как на все комплектующие и периферию присутсует гарантия от магазина.<br>
+	[[ Назад ->Дешёвый1]]
+    [[ Вернуться к выбору ->по частям ПК]]
+    [[ Посмотреть скрины из магазина ->скрины дешёвый1]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Текущий ПК {"position":"600,500","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">На текущем ПК установленны следующие комплектующие:
+''Операционная система'' - RED OS release (8.0) DESKTOP Standart Edition
+''Процессор ''- AMD Ryzen 5 4600G (3.7 ГГц ,6 ядер, 12 потоков)
+''ОЗУ'' - 28 ГБ
+''Мат. плата'' - Micro-Star International Co., Ltd. B450M-A PRO MAX (MS-7C52) 1.0 (MS-7C52)
+''Графика'' - AMDRadeon Graphics  1920x1080
+''Устройства хранения ''- ADATA LEGEND 710 476 ГБ, TOSHIBA HDWD110 931 ГБ
+
+Периферия:
+''Монитор'' ACER 23,8" 1920x1080
+''Клавиатура'' - China Resourse Co., Ltd USB Keyboard
+''Мышь'' - Cygnal Integrated, Inc. USB OPTICAL MOUSE
+
+<br>
+    [[ → Вернуться ->Начало2]]
+    [[ → Скрины характеристики ПК ->Характеристика]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Требования ПК {"position":"1200,500","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Минимальные требования:
+
+1. ''Процессор'' - не менее ''3,2 ГГц'' с поддержкой виртуализации или аналог, не менее ''6'' физических ядер не менее ''12'' потоков
+2. ''ОЗУ'' - не менее ''24 ГБ'' ОЗУ
+3. ''Носители'' - SSD со свободным местом не менее ''500 ГБ'', не менее ''150 ГБ'' свободного места на этом же или дополнительных носителях (HDD/SSD)
+
+Периферия:
+1. ''Клавиатура'' - 1 штука
+2. ''Мышь'' - 1 штука.
+3. ''Коврик'' для мыши - 1 штука.
+4. ''Мониторы'' - не менее ''24"'' и разрешением не менее ''1920×1080'' пкс (2 штуки)
+<br>
+    [[ → Вернуться к выбору ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: Характеристика {"position":"400,700","size":"100,100"}
+<img
+  src="https://ru.yougile.com/user-data/57b80e64-101f-4a18-b03f-591174088703/image.png?previews[]=-256-preview@402x315"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/06a42880-33b7-490f-95da-6357cd181df1/image.png?previews[]=-256-preview@404x315"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/cb805a0d-b2a7-40ee-9069-4bf7cd7b8788/image.png?previews[]=-256-preview@406x314"
+  height="600px"
+  />
+  <img
+  src="https://ru.yougile.com/user-data/bd077502-dfb9-4283-80d0-692b009a010a/image.png?previews[]=-256-preview@403x312"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/505e0b35-f948-491a-b2d8-15eb4d0d5c15/image.png?previews[]=-256-preview@398x315"
+  height="600px"
+  />
+
+
+:: периферия дорого {"position":"925,950","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Периферия для дорогой и комфортной сборки:
+
+''1. Мониторы - ''<a href="https://www.dns-shop.ru/product/b348ce7d331bed20/27-monitor-ardor-gaming-infinity-pro-aq27h1-cernyj/">27" Монитор ARDOR GAMING INFINITY PRO AQ27H1</a> (2 штуки)
+''2. Клавиатура -'' <a href="https://www.dns-shop.ru/product/6bc752069a8505ae/klaviatura-provodnaa-asus-rog-strix-scope-nx-tkl-ml-90mp02b6-bkra00/">Клавиатура проводная ASUS ROG Strix Scope NX TKL ML</a>
+''3. Мышь - ''<a href="https://www.dns-shop.ru/product/cd682ac46bc2ed20/mys-besprovodnaa-logitech-g-pro-x-superlight-2-910-006642-belyj/">Мышь беспроводная Logitech G PRO X SUPERLIGHT 2</a>
+''4. Коврик - ''<a href="https://www.dns-shop.ru/product/f7af4c6a38271b80/kovrik-razer-goliathus-chroma-mercury--seryj/">Коврик Razer Goliathus Chroma Mercury</a>
+
+''Итоговая стоимость - 537.487₽''
+<a href="https://docs.google.com/spreadsheets/d/1BDjH8kPDJB_KG1X6OkXXXTC7fVX1Pw7Z9E7-6WreIiU/edit?usp=drive_link">Таблица с данными</a>
+
+Данный ПК может решить почти все задачи, но согласитесь, что не каждый может позволить себе такой.<br>
+
+    [[ Вернуться к выбору ->по частям ПК]]
+    [[ Назад ->Комфортный1]]
+    [[ Посмотреть скрины из магазина ->скрины дорогой1]]
+    
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: по частям ПК {"position":"800,700","size":"100,100"}
+<div class="scene">
+  <div class="background"></div>
+  <img class="character1" src="https://ru.yougile.com/user-data/f34f7903-505d-48db-9008-43b0f678db24/1d27060c-a0dd-4a73-8463-93c298d17f54.png?previews[]=-256-preview@256x384" alt="Персонаж">
+<div class="dialogue-box">Какой ПК вы хотите рассмотреть?<br>
+    [[ → Самый дешёвый ПК ->Дешёвый1]]
+    [[ → Комфортный ПК ->Комфортный1]]
+    [[ → 25 ПК с бюджетом 600.000₽ ->Бюджет1]]
+    [[ Вернуться к выбору ->Новый ПК]]
+</div>
+</div>
+
+
+<style>
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background {
+  background-image: url('https://ru.yougile.com/user-data/efd80abb-0590-4824-988d-b6a74fb706ae/image.png?previews[]=-256-preview@300x200');
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.character1 {
+  position: absolute;
+  bottom: 100px;
+  left: 60%;
+  height: 700px;
+  width: auto; 
+}
+
+.dialogue-box {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(0,0,0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.character-speech {
+  color: white;
+  font-size: 1.2em;
+}
+</style>
+
+
+:: скрины дешёвый {"position":"1200,950","size":"100,100"}
+<img
+  src="https://ru.yougile.com/user-data/4bdb48ff-3d76-4503-a344-98e2c2d68024/image.png?previews[]=-256-preview@304x116"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/870f3e57-b4b0-4090-9ca4-fcadb633b907/image.png?previews[]=-256-preview@290x112"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/000d830d-5168-4b00-8a97-8f4a4f8b0c49/image.png?previews[]=-256-preview@291x108"
+  height="600px"
+  />
+    [[ → Назад ->Дешёвый]]
+
+
+:: скрины дешёвый1 {"position":"800,1075","size":"100,100"}
+<img
+  src="https://ru.yougile.com/user-data/cadb05c2-1703-4650-8cde-00c2d3f15eb1/image.png?previews[]=-256-preview@269x114"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/0280095e-007d-4039-8eda-64f3c92e951e/image.png?previews[]=-256-preview@266x119"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/e8c28a2f-42bf-44aa-bde5-402d90317c74/image.png?previews[]=-256-preview@268x112"
+  height="600px"
+  />
+  <img
+  src="https://ru.yougile.com/user-data/389d9b9a-3edf-4401-9d08-051c596b1dd3/image.png?previews[]=-256-preview@263x105"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/481a00d2-bad7-49d7-b301-0e4b069625ba/image.png?previews[]=-256-preview@265x107"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/766e0770-fb6f-4997-b5af-8ac40f93ff1d/image.png?previews[]=-256-preview@263x98"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/c3cb5aee-e304-48ea-ac3d-d5e7255f5509/image.png?previews[]=-256-preview@263x117"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/cd50fb85-840a-46b5-8b23-4087a221fc37/image.png?previews[]=-256-preview@266x115"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/a09e9b15-4bac-4a0c-9229-36e6590aed4c/image.png?previews[]=-256-preview@280x103"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/1d5ee35c-c29d-492b-8f50-3302656a476d/image.png?previews[]=-256-preview@266x112"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/0d28a60b-9f37-4991-988c-0fa99c6d7b02/image.png?previews[]=-256-preview@266x118"
+  height="600px"
+  />
+
+
+:: скрины дорогой1 {"position":"925,1075","size":"100,100"}
+<img
+  src="https://ru.yougile.com/user-data/cf6019fc-e0b0-4d3d-93bf-23d30b332a8e/image.png?previews[]=-256-preview@265x114"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/c745a2e3-6be0-4d5f-b219-f9140172b70e/image.png?previews[]=-256-preview@265x117"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/1dfdade8-831b-4e14-a56f-d0597f709736/image.png?previews[]=-256-preview@265x111"
+  height="600px"
+  />
+  <img
+  src="https://ru.yougile.com/user-data/10a45b29-5e10-4e2b-8102-50f5a0c00e3b/image.png?previews[]=-256-preview@265x112"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/fa197f8d-015f-4eb0-b998-51da414332bb/image.png?previews[]=-256-preview@263x91"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/68409701-0566-46b8-b78f-91aba402501e/image.png?previews[]=-256-preview@265x114"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/7f1d8e56-b62e-4645-b877-d47c6e2690c4/image.png?previews[]=-256-preview@269x115"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/e1b1b03d-6568-4235-80d7-659fe60ce503/image.png?previews[]=-256-preview@265x101"
+  height="600px"
+  />
+  <img
+  src="https://ru.yougile.com/user-data/9f8336f7-7c4f-4e03-86ac-dae9a996b762/image.png?previews[]=-256-preview@265x116"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/080e99b6-2090-490a-ad88-8b6cbcc7a817/image.png?previews[]=-256-preview@265x98"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/0230f6ac-c145-46a9-a390-db37c556001d/image.png?previews[]=-256-preview@268x113"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/48e021d8-663a-4eda-8b84-d03b45208207/image.png?previews[]=-256-preview@264x107"
+  height="600px"
+  />
+
+
+:: скрины топ {"position":"1325,950","size":"100,100"}
+<img
+  src="https://ru.yougile.com/user-data/60d0403c-b573-4a19-b156-b50588e1b620/image.png?previews[]=-256-preview@260x117"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/ef9bf2bd-98ae-402e-b00f-e667119f022d/image.png?previews[]=-256-preview@268x117"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/49390913-41e7-40cf-b6e1-2f10e4db5b0f/image.png?previews[]=-256-preview@276x115"
+  height="600px"
+  />
+<img
+  src="https://ru.yougile.com/user-data/ca9bec04-4dcd-4015-a189-2020d542c560/image.png?previews[]=-256-preview@267x109"
+  height="600px"
+  />
+  <img
+  src="https://ru.yougile.com/user-data/86503dd4-c16d-43bc-8104-c85289e61da0/image.png?previews[]=-256-preview@275x108"
+  height="600px"
+  />
+  [[ → Назад ->Комфортный]]
